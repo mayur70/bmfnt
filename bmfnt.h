@@ -1,3 +1,9 @@
+/*
+    Author: Mayur Patil
+    bmfnt: simple header only library to parsing bmfont file.
+    License: GPL-3.0
+*/
+
 #ifndef _BMFNT_H
 #define _BMFNT_H
 
